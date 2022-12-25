@@ -1,9 +1,5 @@
-- Nama : Yogi Muhammad Ridwan
-- NIM  : 1207050129
-- Mata Kuliah/Kelas : 
-  - Pengembangan Aplikasi Web/F 
-  - Praktikum Pengembangan Aplikasi Web/F
-
+# Nama : Yogi Muhammad Ridwan
+# NIM  : 1207050129
 
 ## Git Installation
 
