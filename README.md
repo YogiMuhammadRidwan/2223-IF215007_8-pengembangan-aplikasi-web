@@ -22,7 +22,8 @@
 ## Cpanel operation
 ## Domain registration
 ## HTML Responsive Layout with Media Query & Flexbox
-
+![Tampilan Desktop](https://user-images.githubusercontent.com/112909309/209465641-db8cece8-50a5-4881-857e-661f75242304.png)
+![Tampilan Mobile](https://user-images.githubusercontent.com/112909309/209465645-36275336-6b85-4a04-b9da-0d62a9495a77.png)
 ## Javascript Data Transformation
 ![data transfomasi](https://user-images.githubusercontent.com/112909309/209456308-99fb101c-f75e-4d36-b59f-44ca3e66b8fd.PNG)
 ![data transfomasi-](https://user-images.githubusercontent.com/112909309/209456309-94738d7f-d925-4dc7-a3fa-395342c42123.PNG)
