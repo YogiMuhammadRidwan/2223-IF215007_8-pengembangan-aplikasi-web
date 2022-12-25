@@ -24,7 +24,8 @@
 ## HTML Responsive Layout with Media Query & Flexbox
 
 ## Javascript Data Transformation
-
+![data transfomasi](https://user-images.githubusercontent.com/112909309/209456308-99fb101c-f75e-4d36-b59f-44ca3e66b8fd.PNG)
+![data transfomasi-](https://user-images.githubusercontent.com/112909309/209456309-94738d7f-d925-4dc7-a3fa-395342c42123.PNG)
 ## Browser API - Event Handling, Local Storage, Element manipulation
 
 ## HTTP GET & POST using Form Action and Fetch API
