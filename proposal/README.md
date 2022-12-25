@@ -33,6 +33,8 @@ Adanya kendala pada manajemen keuangan masjid terutama pada sistem pencatatan.
 | tahun_berdiri | integer | 2010 |
 
 ### Tabel Pengguna
+| Atribut | Tipe Data | Contoh |
+|--|--|--|
 | id_pengguna | integer | 111 |
 | nama_pengguna | string | Bendahara Masjid |
 | username | string | yogi1234 |
@@ -40,6 +42,8 @@ Adanya kendala pada manajemen keuangan masjid terutama pada sistem pencatatan.
 | level | string | Administrator |
 
 ### Tabel Kas Masjid
+| Atribut | Tipe Data | Contoh |
+|--|--|--|
 | id_kasMasjid | integer | 123 |
 | tgl_kasMasjid | date | 10/09/2022 |
 | uraian_kasMasjid | string | infaq jum'at |
