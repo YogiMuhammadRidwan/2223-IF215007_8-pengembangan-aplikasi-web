@@ -12,7 +12,7 @@
 ## DBeaver installation & DB connection
 ![dbeaver](https://user-images.githubusercontent.com/112909309/209456161-056f2241-2199-4e12-810f-e68148953b7a.PNG)
 ## MobaXterm installation & SSH connection
-
+![mobaxterm](https://user-images.githubusercontent.com/112909309/209465409-9b8a940e-2575-4c0e-af25-36764977d012.png)
 ## NodeJS & NPM installation, operation & hello world
 ![express-1](https://user-images.githubusercontent.com/112909309/209456166-1f29a472-f7d2-4a8a-8b0a-2029ce907dfe.PNG)
 ![express-2](https://user-images.githubusercontent.com/112909309/209456167-9541a8c6-13ee-462a-a395-0fac6abb95e8.PNG)
