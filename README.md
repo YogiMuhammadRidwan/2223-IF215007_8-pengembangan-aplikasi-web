@@ -18,7 +18,7 @@
 ![express-1](https://user-images.githubusercontent.com/112909309/209456166-1f29a472-f7d2-4a8a-8b0a-2029ce907dfe.PNG)
 ![express-2](https://user-images.githubusercontent.com/112909309/209456167-9541a8c6-13ee-462a-a395-0fac6abb95e8.PNG)
 ## Linux server operation
-
+![linux server operation](https://user-images.githubusercontent.com/112909309/209970130-b46c99a2-4d4f-40b6-9511-0609273e1391.PNG)
 ## Express web server installation & operation
 ![expresswebserver](https://user-images.githubusercontent.com/112909309/209957932-e76f1e91-4f3e-4b79-b511-feda260dca76.PNG)
 ## Cpanel operation
