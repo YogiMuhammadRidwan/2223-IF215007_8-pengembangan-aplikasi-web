@@ -1,5 +1,6 @@
-# Nama : Yogi Muhammad Ridwan
-# NIM  : 1207050129
+# Assesment Praktikum
+## Nama : Yogi Muhammad Ridwan
+## NIM  : 1207050129
 
 ## Git Installation
 ![git](https://user-images.githubusercontent.com/112909309/209455849-acf16794-ccab-4891-b2ce-d993aaef2be6.PNG)
