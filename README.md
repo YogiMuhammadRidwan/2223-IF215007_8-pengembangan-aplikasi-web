@@ -21,7 +21,13 @@
 ## Express web server installation & operation
 ![expresswebserver](https://user-images.githubusercontent.com/112909309/209957932-e76f1e91-4f3e-4b79-b511-feda260dca76.PNG)
 ## Cpanel operation
-
+### Melalui cPanel kita dapat:
+- Membuat dan mengelola email account untuk website Anda
+- Menginstal WordPress (Atau CMS lain seperti Joomla, Prestashop, dsb)
+- Backup file website
+- Mengupload file
+- Mengecek pemakaian bandwidth dan disk space
+- Dan masih banyak lagi, seperti menginstal aplikasi tertentu, mengecek statistik website dan merubah pengaturan security website.
 ## Domain registration
 ![domainregis](https://user-images.githubusercontent.com/112909309/209961413-1605377d-8b6f-41dc-b9a6-2d2263328c3c.PNG)
 ## OOP-based Express Project using NPM
