@@ -21,7 +21,9 @@
 ## Express web server installation & operation
 ![expresswebserver](https://user-images.githubusercontent.com/112909309/209957932-e76f1e91-4f3e-4b79-b511-feda260dca76.PNG)
 ## Cpanel operation
+
 ## Domain registration
+![domainregis](https://user-images.githubusercontent.com/112909309/209961413-1605377d-8b6f-41dc-b9a6-2d2263328c3c.PNG)
 ## OOP-based Express Project using NPM
 ![oop express](https://user-images.githubusercontent.com/112909309/209956920-7a3bcb10-a029-4d25-bbff-e07367282375.PNG)
 ## HTML Responsive Layout with Media Query & Flexbox
@@ -31,12 +33,14 @@
 ![data transfomasi](https://user-images.githubusercontent.com/112909309/209456308-99fb101c-f75e-4d36-b59f-44ca3e66b8fd.PNG)
 ![data transfomasi-](https://user-images.githubusercontent.com/112909309/209456309-94738d7f-d925-4dc7-a3fa-395342c42123.PNG)
 ## Browser API - Event Handling, Local Storage, Element manipulation
-
+![event](https://user-images.githubusercontent.com/112909309/209960217-9d85f8a6-5409-4869-8ec9-fb36462de59a.PNG)
 ## HTTP GET & POST using Form Action and Fetch API
 ![get](https://user-images.githubusercontent.com/112909309/209956059-bcd8f770-5ebf-4cbe-bd2d-5e4d4a54f944.PNG)
 ![post](https://user-images.githubusercontent.com/112909309/209956084-7b4317d1-c5ff-4178-9a83-6d1c7ac8622e.PNG)
 ## HTML Responsive Layout with Bootstrap
-
+![html-bootstrap3](https://user-images.githubusercontent.com/112909309/209961966-9a2f8004-acd0-4576-9853-8fb189457a65.PNG)
+![html-bootstrap1](https://user-images.githubusercontent.com/112909309/209961974-cd48ab8a-e508-4df1-a048-e3f60cb36ca6.PNG)
+![html-bootstrap2](https://user-images.githubusercontent.com/112909309/209961985-3b57fe0d-fcd8-4ef5-91b1-007c55abf76e.PNG)
 ## Single Page App with React & React-router
 ![singlepage](https://user-images.githubusercontent.com/112909309/209955986-53397582-ff2c-4e4b-93b4-ba211bdba950.PNG)
 ![singlepage1](https://user-images.githubusercontent.com/112909309/209956000-2c26daf6-7e73-47fc-a4e0-fc99a7ca5a18.png)
