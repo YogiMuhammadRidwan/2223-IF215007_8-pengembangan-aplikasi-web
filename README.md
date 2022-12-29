@@ -28,6 +28,10 @@
 - Mengupload file
 - Mengecek pemakaian bandwidth dan disk space
 - Dan masih banyak lagi, seperti menginstal aplikasi tertentu, mengecek statistik website dan merubah pengaturan security website.
+### Log in ke cPanel
+Jika ini adalah pertama kalinya log in ke cPanel, biasanya penyedia web hosting akan memberikan detail username dan password cPanel melalui email atau sudah disediakan detailnya pada dashboard account hosting yang kita miliki. Sebagai contoh disini adalah tempat dimana kita bisa log in ke cPanel (pada provider hosting Niagahoster), pada “tab” yang dilingkari merah.
+- ![cpanel-pengaturan-hosting-1](https://user-images.githubusercontent.com/112909309/209963215-5b98c7a0-c6c2-4653-a874-19e6a6c1f9fe.jpg)
+Semua penyedia web hosting memiliki tampilan yang berbeda-beda, tidak akan sama seperti diatas.
 ## Domain registration
 ![domainregis](https://user-images.githubusercontent.com/112909309/209961413-1605377d-8b6f-41dc-b9a6-2d2263328c3c.PNG)
 ## OOP-based Express Project using NPM
