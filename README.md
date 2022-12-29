@@ -41,25 +41,25 @@ Bagian "Files" pada cPanel memungkinkan kita untuk mengupload file, membackup we
 File Manager pada cPanel memungkinkan kita untuk mengelola seluruh file website tanpa perlu menggunakan aplikasi FTP atau aplikasi lainnya yang perlu kita download terlebih dahulu pada komputer kita.
 - Pertama-tama, klik "File Manager", kemudian kita akan diarahkan kehalaman dibawah ini:
 - ![28 -cpanel-Menggunakan-File-Manager](https://user-images.githubusercontent.com/112909309/209964609-7a472c28-0244-4903-9be2-edb3ddfafc7a.png)
-Disinilah tempat dimana seluruh file website Anda disimpan, jadi pastikan kita berhati-hati ketika membuat suatu perubahan.
+- Disinilah tempat dimana seluruh file website Anda disimpan, jadi pastikan kita berhati-hati ketika membuat suatu perubahan.
 ### Root Folder dan Sub-Folder
 Pada dasarnya, File Manager ini tidak jauh berbeda dengan file manager pada komputer. Pertama, disebelah kiri kita dapat menemukan root folder (/home/….) dan sub folder, seperti yang ditandai oleh kotak merah dibawah ini:
 - ![root-folder](https://user-images.githubusercontent.com/112909309/209964671-f77e7084-e376-481d-9d41-ee91a87336e4.png)
 ### Selected Folder / Folder yang Dipilih
 Kemudian pada sisi sebelah kanan, kita dapat melihat konten-konten, seperti folder dan text, yang mana akan terlihat ketika kita memilih/mengklik sub-folder pada sisi sebelah kiri.
 - ![30 -cpanel-Selected-Folder](https://user-images.githubusercontent.com/112909309/209964706-987c88cc-d7a8-4c4a-891c-3e7b92e84205.png)
-Mengetahui hal-hal diatas, (sekali lagi) sama halnya dengan file manager pada komputer, kita juga dapat membuat folder baru dan mengupload file.
+- Mengetahui hal-hal diatas, (sekali lagi) sama halnya dengan file manager pada komputer, kita juga dapat membuat folder baru dan mengupload file.
 ### Membuat Folder Baru
 Folder membantu kita membuat file-file website kita terorganisir dan membuat struktur website Anda mudah dimengerti.  Untuk membuat folder baru, klik tombol "+ Folder" disebelah atas kiri tampilan "File Manager" Anda, seperti terlihat dibawah ini:
 - ![31 -cpanel-Membuat-Folder-Baru](https://user-images.githubusercontent.com/112909309/209965023-69f08695-7ccf-45d2-b67b-355cd0aba605.png)
-Kemudian akan muncul pop-up seperti dibawah ini dan kita akan diminta untuk memasukkan nama folder dan juga dimana folder tersebut kita letakkan.
+- Kemudian akan muncul pop-up seperti dibawah ini dan kita akan diminta untuk memasukkan nama folder dan juga dimana folder tersebut kita letakkan.
 - ![32 -cpanel-Membuat-Folder-Baru2](https://user-images.githubusercontent.com/112909309/209965401-c10872ea-c7df-4e66-af13-e60990ede5e1.png)
-Setelah selesai, klik “Create New Folder”.
+- Setelah selesai, klik “Create New Folder”.
 ### Mengupload File Menggunakan File Manager
 Untuk menambahkan sebuah file – sebagai contoh, file Word/PDF yang kita ingin orang dapat mendownloadnya dari website kita – pertama-tama kita perlu menentukan dimana akan kita letakkan file tersebut.
 Sebagai contoh, digambar dibawah ini saya memilih "etc" (1), lalu klik "Upload":
 - ![33 -cpanel-Mengupload-File](https://user-images.githubusercontent.com/112909309/209965478-eb8e54a6-e856-4d7f-bd01-73bac53abb15.png)
-Terakhir kita akan diminta untuk memilih file yang akan kita upload atau drag saja filenya ke halaman upload seperti yang terlihat dibawah ini:
+- Terakhir kita akan diminta untuk memilih file yang akan kita upload atau drag saja filenya ke halaman upload seperti yang terlihat dibawah ini:
 - ![34 -cpanel-Mengupload-File2](https://user-images.githubusercontent.com/112909309/209965564-fc1ad396-b977-41a6-9751-3bc74c78a31f.png)
 ## Domain registration
 ![domainregis](https://user-images.githubusercontent.com/112909309/209961413-1605377d-8b6f-41dc-b9a6-2d2263328c3c.PNG)
