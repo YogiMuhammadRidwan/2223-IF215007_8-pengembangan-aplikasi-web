@@ -86,3 +86,7 @@ Sebagai contoh, digambar dibawah ini saya memilih "etc" (1), lalu klik "Upload":
 ## Dynamic Web Page using PHP
 ![webdinamis1](https://user-images.githubusercontent.com/112909309/209942956-d64f73c4-0dd5-4fdc-a4c4-415989cc45eb.PNG)
 ![webdinamis2](https://user-images.githubusercontent.com/112909309/209942985-7035dc0c-c1b6-4978-91a0-86ee8af3efd4.PNG)
+## News Site using Wordpress
+![wordpress](https://user-images.githubusercontent.com/112909309/209967504-9dad8a8e-a6de-41da-84ae-07f876e0ed85.PNG)
+![wordpress2](https://user-images.githubusercontent.com/112909309/209967556-c30b7d88-af14-4844-a134-0184c09241e6.PNG)
+
